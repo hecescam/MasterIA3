@@ -3,7 +3,7 @@ MÁSTER DE INTELIGENCIA ARTIFICIAL AVANZADA Y APLICADA: IA3
 
 Universidad de Valencia
 
-- En este repositorio encontraremos todos los ejercicios y proyectos realizados en el Máster estructurados en carpetas por asignatura.
+- En este repositorio encontraremos trabajos y proyectos realizados en el Máster.
 
 
 Héctor Escribano
