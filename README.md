@@ -5,7 +5,7 @@ Universidad de Valencia
 
 - En este repositorio encontraremos trabajos y proyectos realizados en el Máster.
 - Están repartidos en diferentes ramas por asignatura.
-- Desde el desplegable podemos cambiar la rama.
+- Desde el desplegable podemos cambiar la rama y acceder a las distintas asignaturas.
 
 
 Héctor Escribano
