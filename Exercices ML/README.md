@@ -4,6 +4,6 @@ Estos ejercicios están realizados para tener una idea de algunos pasos a seguir
 - Analisis exploratorio.
 - Preprocesado de datos.
 - Visualización de características.
-- Lanzamientos de modelos.
+- Lanzamiento de modelos.
 - Tuneo de hiperparámetros.
 - Evaluación con métricas.
