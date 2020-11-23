@@ -1,9 +1,6 @@
 # MasterIA3
 MÁSTER DE INTELIGENCIA ARTIFICIAL AVANZADA Y APLICADA: IA3
 
-Universidad de Valencia
+Asignatura: Herramientas para IA
 
-- En este repositorio encontraremos trabajos y proyectos realizados en el Máster.
-
-
-Héctor Escribano
+- Modulo Machine Learning.
