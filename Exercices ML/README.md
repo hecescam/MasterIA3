@@ -1,5 +1,5 @@
 
-Estos ejercicios están realizados para tener una idea de algunos pasos a seguir en un proyecto de ML (no se centra en conseguir el mejor modelo):
+Estos ejercicios están realizados para tener una idea de algunos pasos a seguir en un proyecto de Machine Learning:
 
 - Análisis exploratorio.
 - Preprocesado de datos.
